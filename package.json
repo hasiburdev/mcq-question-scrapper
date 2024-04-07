@@ -1,0 +1,17 @@
+{
+  "name": "mcq-solver-nuru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.3.8",
+    "json-2-csv": "^5.5.0",
+    "puppeteer": "^22.5.0"
+  }
+}
